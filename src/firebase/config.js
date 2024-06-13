@@ -8,12 +8,7 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAK_4x5On5dvXHVM0Ym0R4YAmV-SI_3mqY",
-  authDomain: "webimages-2da66.firebaseapp.com",
-  projectId: "webimages-2da66",
-  storageBucket: "webimages-2da66.appspot.com",
-  messagingSenderId: "175362800241",
-  appId: "1:175362800241:web:565e0d81df9326e66e79d0"
+  //Get the Crendetials from Rom_Crendetials Private Repository 
 };
 
 // Initialize Firebase
